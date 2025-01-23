@@ -16,6 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chhatrapatichavan&show_icons=true&locale=en&layout=compact" alt="chhatrapatichavan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chhatrapatichavan&show_icons=true&locale=en" alt="chhatrapatichavan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chhatrapatichavan&" alt="chhatrapatichavan" /></p>
-
