@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Looking to collaborate on open-source projects to contribute, learn, and grow.
 - 🤔 I’m looking for help with  engaging with the right audience, and growing a meaningful professional network.
 - 💬 Ask me about New topic
-- 📫 How to reach me:Linkedin.
+- 📫 How to reach me:in/chatrapati-chavan-9a6b0b241
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I wear my passion for learning new skills like a badge of honor!
 
